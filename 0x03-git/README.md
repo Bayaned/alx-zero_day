@@ -1,1 +1,1 @@
-New dir
+New directory
